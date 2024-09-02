@@ -1,4 +1,4 @@
-# ⚡ About Me:
+# 💫 About Me:
 🔭 I'm currently working on: Enhancing a Leaflet map with path-following and building an AI-powered disease prediction web app.<br>🤝 I'm looking to collaborate on: UI/UX design, DApp development, and AI integration in web applications.<br>🙌 I'm looking for help with: Debugging Python environments and implementing Vite.js for Bitcoin transactions.<br>🌱 I'm currently learning: Advanced Rust, voice integration in React Native, and Garden SDK for crypto.<br>💬 Ask me about: Full-stack development, stunning UI/UX design, and P2P cryptocurrency transfers.<br>⚡ Fun fact: I write creepy cartoon stories mixing fear and comedy.
 
 
