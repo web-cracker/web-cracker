@@ -1,6 +1,7 @@
 # ⚡ About Me:
 🔭 I'm currently working on: Enhancing a Leaflet map with path-following and building an AI-powered disease prediction web app.<br>🤝 I'm looking to collaborate on: UI/UX design, DApp development, and AI integration in web applications.<br>🙌 I'm looking for help with: Debugging Python environments and implementing Vite.js for Bitcoin transactions.<br>🌱 I'm currently learning: Advanced Rust, voice integration in React Native, and Garden SDK for crypto.<br>💬 Ask me about: Full-stack development, stunning UI/UX design, and P2P cryptocurrency transfers.<br>⚡ Fun fact: I write creepy cartoon stories mixing fear and comedy.
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/md.zuberahamad/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-zuber-ahamad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdzuberahamad) 
 
